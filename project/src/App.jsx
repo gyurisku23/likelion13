@@ -19,7 +19,7 @@ export default function App(){
 
             <main className="main">
                 <section id="about" className="section">
-                    <h2>안녕하세요!</h2>
+                    <h2>안녕하세요!!</h2>
                     <p>만나서 반갑습니다. 저는 소프트웨어학과 김규리입니다.</p>
                     <p>서경대학교 3학년으로 진학 중입니다.</p>
                     <p>함께 즐거운 동아리 생활 보내봐요 ^^</p>
