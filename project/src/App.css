@@ -36,3 +36,12 @@ div{
   color:aqua;
 
 }
+
+a{
+  color:cornflowerblue;
+  text-decoration: none;
+  font-weight: bold;
+}
+a:hover{
+  color:chartreuse;
+}
