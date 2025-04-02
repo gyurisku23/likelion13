@@ -46,6 +46,11 @@ export default function App(){
                         <li>닭갈비</li>
                     </ol>
 
+                    <h3>현재 빠져 있는 애니메이션</h3>
+                    <p>하이큐~~~~~</p>
+                    <p>하이큐 OST 꼭 들어 보세요 ㅎㅎㅎ</p>
+                    <a href="https://www.youtube.com/watch?v=fg8xDzOWllQ" target="_blank">하이큐 OST "Imagination" 바로가기</a>
+
                 </section>
 
                 <section id="resolution" className="section">
@@ -72,6 +77,3 @@ export default function App(){
         
     )
 }
-
-
-    
