@@ -23,7 +23,7 @@ export default function App(){
                     <p>만나서 반갑습니다. 저는 소프트웨어학과 김규리입니다.</p>
                     <p>서경대학교 3학년으로 진학 중입니다.</p>
                     <p>함께 즐거운 동아리 생활 보내봐요 ^^</p>
-                    <img className="img" src="https://img1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/eViY/image/is3UFbmo7Gwuiln43EznmVZFwXo.jpg" alt="about_image"/>
+                    <img className="img" src="https://search3.kakaocdn.net/argon/656x0_80_wr/GtMZLy4fY8G" alt="about_image"/>
                 </section>
 
                 <section id="features" className="section">
@@ -34,10 +34,11 @@ export default function App(){
                         <li>드라마 보기</li>
                         <li>음악 감상</li>
                         <li>유튜브 보기</li>
+                        <li>숙면</li>
                         <li>과제하기..</li>
                         <li>멍때리기</li>
                     </ul>
-                    <img className="img" src="https://i.ytimg.com/vi/dIt_N7yNTgk/mqdefault.jpg" alt="guitar_image"/>
+                    <img className="img" src="https://search4.kakaocdn.net/argon/656x0_80_wr/44MywXAVTmi" alt="sleeping_image"/>
 
                     <h3>좋아하는 음식 순위</h3>
                     <ol>
@@ -50,6 +51,8 @@ export default function App(){
                     <p>하이큐~~~~~</p>
                     <p>하이큐 OST 꼭 들어 보세요 ㅎㅎㅎ</p>
                     <a href="https://www.youtube.com/watch?v=fg8xDzOWllQ" target="_blank">하이큐 OST "Imagination" 바로가기</a>
+                    <br></br>
+                    <img className="img" src="https://search4.kakaocdn.net/argon/656x0_80_wr/JlaIEdeXr2R" alt="haikyuu.image" style={{ width: "300px", height: "auto" }}/>
 
                 </section>
 
